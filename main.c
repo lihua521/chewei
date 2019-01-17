@@ -102,11 +102,13 @@ struct Point
             char xx;
             scanf("%c",&xx)
             scanf("%c",&xx);
-            
+
         }
 
         if (code == 5)
         {
+            printf("tuichu\n");
+            break;
         }
     }
 
