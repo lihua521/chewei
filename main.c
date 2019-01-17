@@ -21,7 +21,21 @@ int main(){
         scanf("%d",&code);
 
         if(code == 1){
-           
+           printf("shuruzheliangzuobiao\n");
+           int x;
+           int y;
+           scanf("%d",&x);
+           scanf("%d",&y);
+
+           arr[index].x = x;
+           arr[index].y = y;
+
+           index++;
+
+           printf("dianjihuichejixu\n");
+           char xx;
+           scanf("%c",&xx);
+           scanf("%c",&xx);
         }
         
         if(code == 2){
