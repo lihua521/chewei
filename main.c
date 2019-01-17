@@ -55,7 +55,15 @@ int main(){
         }
         
         if(code == 3){
-            
+          printf("cheliangweizhi\n");
+
+          for (int i = 0;i<index;i++){
+              printf("di%ddecheliang(%d,%d)\n",i+1,arr[i].x,arr[i].y);
+          }
+          printf("\ndianjihuichejixu\n");
+          char xx;
+          scanf("%c",&xx);
+          scanf("%c",&xx);
         }
         
         if(code == 4){
