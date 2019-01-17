@@ -46,7 +46,12 @@ int main(){
                 scanf("%c",&xx);
                 scanf("%c",&xx);
             }
-            
+            else{
+                printf("wusheliangxinxi,shanchushibai\n");
+                char xx;
+                scanf("%c",&xx);
+                scanf("%c",&xx);
+            }
         }
         
         if(code == 3){
