@@ -4,7 +4,8 @@ struct Point
 {
     int x;
     int y;
-} int main()
+};
+int main()
 {
     int index = 0;
     struct Point arr[100];
@@ -92,7 +93,7 @@ struct Point
 
                 if (min > 1)
                 {
-                    min = 1 
+                    min = 1; 
                     carID = i;
                 }
             }
@@ -100,7 +101,7 @@ struct Point
 
             printf("\ndianjihuichejixu\n");
             char xx;
-            scanf("%c",&xx)
+            scanf("%c",&xx);
             scanf("%c",&xx);
 
         }
