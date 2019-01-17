@@ -39,6 +39,13 @@ int main(){
         }
         
         if(code == 2){
+            if(index> 0 ){
+                index--;
+                printf("shanchuwanchengdianjihuichejixu\n");
+                char xx;
+                scanf("%c",&xx);
+                scanf("%c",&xx);
+            }
             
         }
         
